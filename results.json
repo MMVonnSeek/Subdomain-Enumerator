@@ -1,0 +1,3458 @@
+[
+  {
+    "hostname": "www.exemplo.com",
+    "labels": "www",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "api.exemplo.com",
+    "labels": "api",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "dev.exemplo.com",
+    "labels": "dev",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "admin.exemplo.com",
+    "labels": "admin",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "portal.exemplo.com",
+    "labels": "portal",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "mail.exemplo.com",
+    "labels": "mail",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "staging.exemplo.com",
+    "labels": "staging",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "test.exemplo.com",
+    "labels": "test",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "beta.exemplo.com",
+    "labels": "beta",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cdn.exemplo.com",
+    "labels": "cdn",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "static.exemplo.com",
+    "labels": "static",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "app.exemplo.com",
+    "labels": "app",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "srv.exemplo.com",
+    "labels": "srv",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "vpn.exemplo.com",
+    "labels": "vpn",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "support.exemplo.com",
+    "labels": "support",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "prod.exemplo.com",
+    "labels": "prod",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "files.exemplo.com",
+    "labels": "files",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "media.exemplo.com",
+    "labels": "media",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "assets.exemplo.com",
+    "labels": "assets",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "img.exemplo.com",
+    "labels": "img",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "images.exemplo.com",
+    "labels": "images",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "download.exemplo.com",
+    "labels": "download",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "upload.exemplo.com",
+    "labels": "upload",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "uploads.exemplo.com",
+    "labels": "uploads",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cache.exemplo.com",
+    "labels": "cache",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "auth.exemplo.com",
+    "labels": "auth",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "proxy.exemplo.com",
+    "labels": "proxy",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "storage.exemplo.com",
+    "labels": "storage",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "auth2.exemplo.com",
+    "labels": "auth2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "login.exemplo.com",
+    "labels": "login",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "sso.exemplo.com",
+    "labels": "sso",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "oidc.exemplo.com",
+    "labels": "oidc",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "oauth.exemplo.com",
+    "labels": "oauth",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "jwt.exemplo.com",
+    "labels": "jwt",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "token.exemplo.com",
+    "labels": "token",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "administrator.exemplo.com",
+    "labels": "administrator",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "dashboard.exemplo.com",
+    "labels": "dashboard",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "panel.exemplo.com",
+    "labels": "panel",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "gateway.exemplo.com",
+    "labels": "gateway",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "edge.exemplo.com",
+    "labels": "edge",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "backend.exemplo.com",
+    "labels": "backend",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "intranet.exemplo.com",
+    "labels": "intranet",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "internal.exemplo.com",
+    "labels": "internal",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "frontend.exemplo.com",
+    "labels": "frontend",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "secure.exemplo.com",
+    "labels": "secure",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ws.exemplo.com",
+    "labels": "ws",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "firewall.exemplo.com",
+    "labels": "firewall",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "security.exemplo.com",
+    "labels": "security",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ws2.exemplo.com",
+    "labels": "ws2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "websocket.exemplo.com",
+    "labels": "websocket",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "graphql.exemplo.com",
+    "labels": "graphql",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "rest.exemplo.com",
+    "labels": "rest",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "api-v1.exemplo.com",
+    "labels": "api-v1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "mobile.exemplo.com",
+    "labels": "mobile",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "api-v2.exemplo.com",
+    "labels": "api-v2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "api-v3.exemplo.com",
+    "labels": "api-v3",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "client.exemplo.com",
+    "labels": "client",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "android.exemplo.com",
+    "labels": "android",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ios.exemplo.com",
+    "labels": "ios",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "clients.exemplo.com",
+    "labels": "clients",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "customer.exemplo.com",
+    "labels": "customer",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "customers.exemplo.com",
+    "labels": "customers",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "users.exemplo.com",
+    "labels": "users",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "account.exemplo.com",
+    "labels": "account",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "user.exemplo.com",
+    "labels": "user",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "billing.exemplo.com",
+    "labels": "billing",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "accounts.exemplo.com",
+    "labels": "accounts",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "pay.exemplo.com",
+    "labels": "pay",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "checkout.exemplo.com",
+    "labels": "checkout",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "payment.exemplo.com",
+    "labels": "payment",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "payments.exemplo.com",
+    "labels": "payments",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "finance.exemplo.com",
+    "labels": "finance",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "financial.exemplo.com",
+    "labels": "financial",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "banking.exemplo.com",
+    "labels": "banking",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bank.exemplo.com",
+    "labels": "bank",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "data.exemplo.com",
+    "labels": "data",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "database.exemplo.com",
+    "labels": "database",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "db.exemplo.com",
+    "labels": "db",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "db2.exemplo.com",
+    "labels": "db2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "db1.exemplo.com",
+    "labels": "db1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "mysql.exemplo.com",
+    "labels": "mysql",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "elastic.exemplo.com",
+    "labels": "elastic",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "mongo.exemplo.com",
+    "labels": "mongo",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "postgres.exemplo.com",
+    "labels": "postgres",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "es.exemplo.com",
+    "labels": "es",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "kibana.exemplo.com",
+    "labels": "kibana",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "prometheus.exemplo.com",
+    "labels": "prometheus",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "status.exemplo.com",
+    "labels": "status",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "grafana.exemplo.com",
+    "labels": "grafana",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "health.exemplo.com",
+    "labels": "health",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "heartbeat.exemplo.com",
+    "labels": "heartbeat",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "node.exemplo.com",
+    "labels": "node",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "node1.exemplo.com",
+    "labels": "node1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "node2.exemplo.com",
+    "labels": "node2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "node3.exemplo.com",
+    "labels": "node3",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cluster1.exemplo.com",
+    "labels": "cluster1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cluster2.exemplo.com",
+    "labels": "cluster2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cluster.exemplo.com",
+    "labels": "cluster",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "app2.exemplo.com",
+    "labels": "app2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "microservice.exemplo.com",
+    "labels": "microservice",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "microservices.exemplo.com",
+    "labels": "microservices",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "lambda.exemplo.com",
+    "labels": "lambda",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "server.exemplo.com",
+    "labels": "server",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "server1.exemplo.com",
+    "labels": "server1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "server2.exemplo.com",
+    "labels": "server2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "server3.exemplo.com",
+    "labels": "server3",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "qa.exemplo.com",
+    "labels": "qa",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "uatu.exemplo.com",
+    "labels": "uatu",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "qa2.exemplo.com",
+    "labels": "qa2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "qa1.exemplo.com",
+    "labels": "qa1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "devops.exemplo.com",
+    "labels": "devops",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bitbucket.exemplo.com",
+    "labels": "bitbucket",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "jenkins.exemplo.com",
+    "labels": "jenkins",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ci.exemplo.com",
+    "labels": "ci",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cd.exemplo.com",
+    "labels": "cd",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cicd.exemplo.com",
+    "labels": "cicd",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "pipeline.exemplo.com",
+    "labels": "pipeline",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "queue.exemplo.com",
+    "labels": "queue",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "rabbitmq.exemplo.com",
+    "labels": "rabbitmq",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "sqs.exemplo.com",
+    "labels": "sqs",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "labs.exemplo.com",
+    "labels": "labs",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "lab.exemplo.com",
+    "labels": "lab",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "sandbox.exemplo.com",
+    "labels": "sandbox",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "gitlab.exemplo.com",
+    "labels": "gitlab",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "github.exemplo.com",
+    "labels": "github",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "git.exemplo.com",
+    "labels": "git",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "redis.exemplo.com",
+    "labels": "redis",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "pubsub.exemplo.com",
+    "labels": "pubsub",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "logs.exemplo.com",
+    "labels": "logs",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "logging.exemplo.com",
+    "labels": "logging",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "report.exemplo.com",
+    "labels": "report",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "reports.exemplo.com",
+    "labels": "reports",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "analytics.exemplo.com",
+    "labels": "analytics",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "stats.exemplo.com",
+    "labels": "stats",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "statics.exemplo.com",
+    "labels": "statics",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "help.exemplo.com",
+    "labels": "help",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "email.exemplo.com",
+    "labels": "email",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "imap.exemplo.com",
+    "labels": "imap",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "kafka.exemplo.com",
+    "labels": "kafka",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "newsletter.exemplo.com",
+    "labels": "newsletter",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "sns.exemplo.com",
+    "labels": "sns",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "news.exemplo.com",
+    "labels": "news",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "backup.exemplo.com",
+    "labels": "backup",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "memcache.exemplo.com",
+    "labels": "memcache",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "backups.exemplo.com",
+    "labels": "backups",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "forum.exemplo.com",
+    "labels": "forum",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ecommerce.exemplo.com",
+    "labels": "ecommerce",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "community.exemplo.com",
+    "labels": "community",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "partners.exemplo.com",
+    "labels": "partners",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "helpdesk.exemplo.com",
+    "labels": "helpdesk",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "affiliates.exemplo.com",
+    "labels": "affiliates",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cdn1.exemplo.com",
+    "labels": "cdn1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "partner.exemplo.com",
+    "labels": "partner",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "smtp.exemplo.com",
+    "labels": "smtp",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "pop.exemplo.com",
+    "labels": "pop",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cdn2.exemplo.com",
+    "labels": "cdn2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cdn3.exemplo.com",
+    "labels": "cdn3",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "edge2.exemplo.com",
+    "labels": "edge2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "proxy1.exemplo.com",
+    "labels": "proxy1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "proxy2.exemplo.com",
+    "labels": "proxy2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "shop.exemplo.com",
+    "labels": "shop",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "blog.exemplo.com",
+    "labels": "blog",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cache1.exemplo.com",
+    "labels": "cache1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cache2.exemplo.com",
+    "labels": "cache2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "alpha.exemplo.com",
+    "labels": "alpha",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "update.exemplo.com",
+    "labels": "update",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "store.exemplo.com",
+    "labels": "store",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "updates.exemplo.com",
+    "labels": "updates",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "release.exemplo.com",
+    "labels": "release",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "old.exemplo.com",
+    "labels": "old",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "deprecated.exemplo.com",
+    "labels": "deprecated",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "legacy.exemplo.com",
+    "labels": "legacy",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "hidden.exemplo.com",
+    "labels": "hidden",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "domain.exemplo.com",
+    "labels": "domain",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "public.exemplo.com",
+    "labels": "public",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "host.exemplo.com",
+    "labels": "host",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "domains.exemplo.com",
+    "labels": "domains",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "static1.exemplo.com",
+    "labels": "static1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "static2.exemplo.com",
+    "labels": "static2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "node-a.exemplo.com",
+    "labels": "node-a",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "origin.exemplo.com",
+    "labels": "origin",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "edge1.exemplo.com",
+    "labels": "edge1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "node-c.exemplo.com",
+    "labels": "node-c",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "us-east.exemplo.com",
+    "labels": "us-east",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "us.exemplo.com",
+    "labels": "us",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "br.exemplo.com",
+    "labels": "br",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "br1.exemplo.com",
+    "labels": "br1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "br2.exemplo.com",
+    "labels": "br2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "latam.exemplo.com",
+    "labels": "latam",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "emea.exemplo.com",
+    "labels": "emea",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "asia.exemplo.com",
+    "labels": "asia",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "secret.exemplo.com",
+    "labels": "secret",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "private.exemplo.com",
+    "labels": "private",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "apac.exemplo.com",
+    "labels": "apac",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "jp.exemplo.com",
+    "labels": "jp",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "hosts.exemplo.com",
+    "labels": "hosts",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "node-b.exemplo.com",
+    "labels": "node-b",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "uk.exemplo.com",
+    "labels": "uk",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "us-west.exemplo.com",
+    "labels": "us-west",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ca.exemplo.com",
+    "labels": "ca",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "sa.exemplo.com",
+    "labels": "sa",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "eu.exemplo.com",
+    "labels": "eu",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "hrm.exemplo.com",
+    "labels": "hrm",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "hr.exemplo.com",
+    "labels": "hr",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "identity.exemplo.com",
+    "labels": "identity",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "people.exemplo.com",
+    "labels": "people",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "id.exemplo.com",
+    "labels": "id",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "idm.exemplo.com",
+    "labels": "idm",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "directory.exemplo.com",
+    "labels": "directory",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "intune.exemplo.com",
+    "labels": "intune",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "au.exemplo.com",
+    "labels": "au",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "2fa.exemplo.com",
+    "labels": "2fa",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cn.exemplo.com",
+    "labels": "cn",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "erp.exemplo.com",
+    "labels": "erp",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "sap.exemplo.com",
+    "labels": "sap",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "backup1.exemplo.com",
+    "labels": "backup1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "backup2.exemplo.com",
+    "labels": "backup2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "arch.exemplo.com",
+    "labels": "arch",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "oracle.exemplo.com",
+    "labels": "oracle",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "key.exemplo.com",
+    "labels": "key",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "secrets.exemplo.com",
+    "labels": "secrets",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "vault.exemplo.com",
+    "labels": "vault",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "keyvault.exemplo.com",
+    "labels": "keyvault",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "config.exemplo.com",
+    "labels": "config",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cmdb.exemplo.com",
+    "labels": "cmdb",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "secret-mgmt.exemplo.com",
+    "labels": "secret-mgmt",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "configuration.exemplo.com",
+    "labels": "configuration",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "active-directory.exemplo.com",
+    "labels": "active-directory",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "inventory.exemplo.com",
+    "labels": "inventory",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ad.exemplo.com",
+    "labels": "ad",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "legal.exemplo.com",
+    "labels": "legal",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "mfa.exemplo.com",
+    "labels": "mfa",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "compliance.exemplo.com",
+    "labels": "compliance",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "board.exemplo.com",
+    "labels": "board",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cto.exemplo.com",
+    "labels": "cto",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cfo.exemplo.com",
+    "labels": "cfo",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cio.exemplo.com",
+    "labels": "cio",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "dev1.exemplo.com",
+    "labels": "dev1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "archive.exemplo.com",
+    "labels": "archive",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "dev2.exemplo.com",
+    "labels": "dev2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "dev3.exemplo.com",
+    "labels": "dev3",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ops.exemplo.com",
+    "labels": "ops",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ops1.exemplo.com",
+    "labels": "ops1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ops2.exemplo.com",
+    "labels": "ops2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "network.exemplo.com",
+    "labels": "network",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "asset-mgmt.exemplo.com",
+    "labels": "asset-mgmt",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "contract.exemplo.com",
+    "labels": "contract",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "risks.exemplo.com",
+    "labels": "risks",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "router.exemplo.com",
+    "labels": "router",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "switch.exemplo.com",
+    "labels": "switch",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "networking.exemplo.com",
+    "labels": "networking",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "governance.exemplo.com",
+    "labels": "governance",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ceo.exemplo.com",
+    "labels": "ceo",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "risk.exemplo.com",
+    "labels": "risk",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ips.exemplo.com",
+    "labels": "ips",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "waf.exemplo.com",
+    "labels": "waf",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ids.exemplo.com",
+    "labels": "ids",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "zero-trust.exemplo.com",
+    "labels": "zero-trust",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bastion.exemplo.com",
+    "labels": "bastion",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bastion2.exemplo.com",
+    "labels": "bastion2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "loadbalancer.exemplo.com",
+    "labels": "loadbalancer",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bastion1.exemplo.com",
+    "labels": "bastion1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "lb.exemplo.com",
+    "labels": "lb",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "lb2.exemplo.com",
+    "labels": "lb2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "api-gateway.exemplo.com",
+    "labels": "api-gateway",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "net.exemplo.com",
+    "labels": "net",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "rep1.exemplo.com",
+    "labels": "rep1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "rep2.exemplo.com",
+    "labels": "rep2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "failover.exemplo.com",
+    "labels": "failover",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "high-availability.exemplo.com",
+    "labels": "high-availability",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ha.exemplo.com",
+    "labels": "ha",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "fw.exemplo.com",
+    "labels": "fw",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "dr.exemplo.com",
+    "labels": "dr",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "disaster-recovery.exemplo.com",
+    "labels": "disaster-recovery",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ztn.exemplo.com",
+    "labels": "ztn",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "tests.exemplo.com",
+    "labels": "tests",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "uat.exemplo.com",
+    "labels": "uat",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "quality.exemplo.com",
+    "labels": "quality",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "beta-users.exemplo.com",
+    "labels": "beta-users",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "lb1.exemplo.com",
+    "labels": "lb1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "mirrors.exemplo.com",
+    "labels": "mirrors",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "traffic.exemplo.com",
+    "labels": "traffic",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "front.exemplo.com",
+    "labels": "front",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "replica.exemplo.com",
+    "labels": "replica",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "mirror.exemplo.com",
+    "labels": "mirror",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "integrations.exemplo.com",
+    "labels": "integrations",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "integration.exemplo.com",
+    "labels": "integration",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bridge.exemplo.com",
+    "labels": "bridge",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bridges.exemplo.com",
+    "labels": "bridges",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "datahub.exemplo.com",
+    "labels": "datahub",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "lake.exemplo.com",
+    "labels": "lake",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "warehouse.exemplo.com",
+    "labels": "warehouse",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "jdbc.exemplo.com",
+    "labels": "jdbc",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "experiments.exemplo.com",
+    "labels": "experiments",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "feature-flags.exemplo.com",
+    "labels": "feature-flags",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "etl.exemplo.com",
+    "labels": "etl",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "elt.exemplo.com",
+    "labels": "elt",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "orchestrator.exemplo.com",
+    "labels": "orchestrator",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "workflow.exemplo.com",
+    "labels": "workflow",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "preview.exemplo.com",
+    "labels": "preview",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "middleware.exemplo.com",
+    "labels": "middleware",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bot.exemplo.com",
+    "labels": "bot",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "back.exemplo.com",
+    "labels": "back",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "robot.exemplo.com",
+    "labels": "robot",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "connector.exemplo.com",
+    "labels": "connector",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bots.exemplo.com",
+    "labels": "bots",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "scraper.exemplo.com",
+    "labels": "scraper",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "crawler.exemplo.com",
+    "labels": "crawler",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "data-lake.exemplo.com",
+    "labels": "data-lake",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "nlp.exemplo.com",
+    "labels": "nlp",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "odbc.exemplo.com",
+    "labels": "odbc",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "model.exemplo.com",
+    "labels": "model",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "models.exemplo.com",
+    "labels": "models",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "model1.exemplo.com",
+    "labels": "model1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "predict.exemplo.com",
+    "labels": "predict",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "predictions.exemplo.com",
+    "labels": "predictions",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "forecast.exemplo.com",
+    "labels": "forecast",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "automation.exemplo.com",
+    "labels": "automation",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cluster-a.exemplo.com",
+    "labels": "cluster-a",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cluster-b.exemplo.com",
+    "labels": "cluster-b",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cluster-c.exemplo.com",
+    "labels": "cluster-c",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "node-x.exemplo.com",
+    "labels": "node-x",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "node-y.exemplo.com",
+    "labels": "node-y",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ai.exemplo.com",
+    "labels": "ai",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "node-z.exemplo.com",
+    "labels": "node-z",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "ml.exemplo.com",
+    "labels": "ml",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "blue.exemplo.com",
+    "labels": "blue",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "machine-learning.exemplo.com",
+    "labels": "machine-learning",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "deep-learning.exemplo.com",
+    "labels": "deep-learning",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "vision.exemplo.com",
+    "labels": "vision",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "canary.exemplo.com",
+    "labels": "canary",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "release2.exemplo.com",
+    "labels": "release2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "rootlogin.exemplo.com",
+    "labels": "rootlogin",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "admlogin.exemplo.com",
+    "labels": "admlogin",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "shell.exemplo.com",
+    "labels": "shell",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "shells.exemplo.com",
+    "labels": "shells",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "inference.exemplo.com",
+    "labels": "inference",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "term.exemplo.com",
+    "labels": "term",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "terminal.exemplo.com",
+    "labels": "terminal",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "console.exemplo.com",
+    "labels": "console",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cloud.exemplo.com",
+    "labels": "cloud",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cloud1.exemplo.com",
+    "labels": "cloud1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cloudfront.exemplo.com",
+    "labels": "cloudfront",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "edgecompute.exemplo.com",
+    "labels": "edgecompute",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "release1.exemplo.com",
+    "labels": "release1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bluegreen.exemplo.com",
+    "labels": "bluegreen",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "adm.exemplo.com",
+    "labels": "adm",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "green.exemplo.com",
+    "labels": "green",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "compute1.exemplo.com",
+    "labels": "compute1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "root.exemplo.com",
+    "labels": "root",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "compute2.exemplo.com",
+    "labels": "compute2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "blob.exemplo.com",
+    "labels": "blob",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bucket.exemplo.com",
+    "labels": "bucket",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bucket2.exemplo.com",
+    "labels": "bucket2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cdn-origin.exemplo.com",
+    "labels": "cdn-origin",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "bucket1.exemplo.com",
+    "labels": "bucket1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "nginx.exemplo.com",
+    "labels": "nginx",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "apache.exemplo.com",
+    "labels": "apache",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "tomcat.exemplo.com",
+    "labels": "tomcat",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "jetty.exemplo.com",
+    "labels": "jetty",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "wildfly.exemplo.com",
+    "labels": "wildfly",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "iis.exemplo.com",
+    "labels": "iis",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cloud2.exemplo.com",
+    "labels": "cloud2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "cloudflare.exemplo.com",
+    "labels": "cloudflare",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "win.exemplo.com",
+    "labels": "win",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "compute.exemplo.com",
+    "labels": "compute",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "smtp-relay.exemplo.com",
+    "labels": "smtp-relay",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "winserver.exemplo.com",
+    "labels": "winserver",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "relay.exemplo.com",
+    "labels": "relay",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "scanner.exemplo.com",
+    "labels": "scanner",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "scanning.exemplo.com",
+    "labels": "scanning",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "infra.exemplo.com",
+    "labels": "infra",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "infra2.exemplo.com",
+    "labels": "infra2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "infra1.exemplo.com",
+    "labels": "infra1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "scan.exemplo.com",
+    "labels": "scan",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "internal-api.exemplo.com",
+    "labels": "internal-api",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "private-api.exemplo.com",
+    "labels": "private-api",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "scanners.exemplo.com",
+    "labels": "scanners",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "resolv.exemplo.com",
+    "labels": "resolv",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "dns3.exemplo.com",
+    "labels": "dns3",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "resolver.exemplo.com",
+    "labels": "resolver",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "dns.exemplo.com",
+    "labels": "dns",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "dns1.exemplo.com",
+    "labels": "dns1",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  },
+  {
+    "hostname": "dns2.exemplo.com",
+    "labels": "dns2",
+    "ips": [
+      "104.247.81.99"
+    ],
+    "cnames": [],
+    "source": "active"
+  }
+]
