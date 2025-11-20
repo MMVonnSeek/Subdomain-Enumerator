@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "subenum"
+version = "0.1.0"
+description = "Hybrid subdomain enumeration tool."
+authors = [
+    { name="Max Müller" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
