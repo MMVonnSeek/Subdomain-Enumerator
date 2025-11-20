@@ -94,6 +94,7 @@ Compatível com:
 **1. Clonar o repositório**
 
 git clone https://github.com/MMVonnSeek/Subdomain-Enumerator.git
+
 cd SubEnum
 
 ---
@@ -194,5 +195,6 @@ Pull requests são bem-vindos.
 Issues podem ser abertas para sugestões, dúvidas ou melhorias.
 
 ⭐ Se este material te ajudou, lembre-se de deixar uma estrela no repositório!
+
 
 
