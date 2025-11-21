@@ -179,22 +179,13 @@ python -m subenum.cli \
 
 ---
 
-### Boas Práticas Implementadas
-- Código modular
-- Padrão Strategy
-- Logging estruturado
-- Async + ThreadPool
-- Excessões bem tratadas
-- Dashboard HTML
-- Wordlists otimizadas
-- Testes PyTest
-- Arquitetura expansível
 
 *Contribuição*
 Pull requests são bem-vindos.
 Issues podem ser abertas para sugestões, dúvidas ou melhorias.
 
 ⭐ Se este material te ajudou, lembre-se de deixar uma estrela no repositório!
+
 
 
 
