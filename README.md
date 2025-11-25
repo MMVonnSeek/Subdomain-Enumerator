@@ -2,7 +2,7 @@
 ### *Advanced Reconnaissance Engine for Offensive Security & Cyber Threat Analysis*
 
 ---
-
+![Max Müller](https://img.shields.io/badge/Autor-Max%20M%C3%BCller-blue?style=for-the-badge&logo=github)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
 ![Security Research](https://img.shields.io/badge/Security%20Research-Max%20Müller-darkred?style=for-the-badge&logo=target)
 ![Offensive Security](https://img.shields.io/badge/Offensive%20Security-Ready-black?style=for-the-badge&logo=skynet)
@@ -184,7 +184,13 @@ python -m subenum.cli \
 Pull requests são bem-vindos.
 Issues podem ser abertas para sugestões, dúvidas ou melhorias.
 
-⭐ Se este material te ajudou, lembre-se de deixar uma estrela no repositório!
+---
+
+## Autor
+Professor: Max Müller
+
+Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
+
 
 
 
