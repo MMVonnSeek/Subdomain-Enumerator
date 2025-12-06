@@ -90,19 +90,28 @@ Compatível com:
 ---
 
 ### Instalação
-**1. Clonar o repositório**
+**1. Faça um Fork do Repositório:** 
+Antes de tudo, crie sua própria cópia deste projeto:
 
-git clone https://github.com/MMVonnSeek/Subdomain-Enumerator.git
+- Clique no botão Fork no canto superior direito do GitHub.
+
+- Isso criará uma versão do repositório na sua conta.
+
+**2. Clone o Seu Repositório Forkado:**
+
+```
+git clone https://github.com/SEU-USUSARIO/Subdomain-Enumerator.git
 
 cd SubEnum
+```
 
 ---
-**2. Instalar dependências**
+**3. Instalar dependências**
 
 pip install -r requirements.txt
 
 ---
-**3. (Opcional) Instalar como pacote**
+**4. (Opcional) Instalar como pacote**
 
 pip install -e .
 
@@ -185,13 +194,7 @@ Issues podem ser abertas para sugestões, dúvidas ou melhorias.
 
 ---
 
-## Autor
+#### Autor
 Professor: Max Müller
 
 Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
-
-
-
-
-
-
