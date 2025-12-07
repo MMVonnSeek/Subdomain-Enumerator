@@ -195,6 +195,7 @@ Issues podem ser abertas para sugestões, dúvidas ou melhorias.
 ---
 
 #### Autor
-Professor: Max Müller
+Professor: **Max Müller**
 
 Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
+
