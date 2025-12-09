@@ -108,19 +108,25 @@ cd SubEnum
 ---
 **3. Instalar dependências**
 
+```
 pip install -r requirements.txt
+```
 
 ---
 **4. (Opcional) Instalar como pacote**
 
+```
 pip install -e .
+```
 
 ---
 
 ### Como Usar
 **1. Modo básico**
 
+```
 python -m subenum.cli --domain exemplo.com --wordlist wordlists/default.txt
+```
 
 ---
 **2. Enumeração híbrida avançada**
@@ -198,5 +204,6 @@ Issues podem ser abertas para sugestões, dúvidas ou melhorias.
 Professor: **Max Müller**
 
 Se este projeto ajudou você a evoluir, deixe uma ⭐ e compartilhe o conhecimento. Obrigado por usar este repositório!
+
 
 
