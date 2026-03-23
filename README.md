@@ -150,6 +150,7 @@ python -m subenum.cli \
 python -m subenum.cli --domain target.com --wordlist wordlists/default.txt --dashboard dashboard.html
 ```
 
+---
 **4. Modo Passivo**
 
 **crt.sh**
