@@ -234,6 +234,15 @@ Se você gostou do projeto, não esqueça de:
 
 ----------
 
+## ## Licença
+
+Este projeto é distribuído sob a Licença MIT, permitindo uso, modificação e distribuição livre, inclusive para fins comerciais, desde que os devidos créditos sejam mantidos.
+
+Consulte o arquivo LICENSE para mais informações.
+    
+
+----------
+
 <div align="center"> <sub> Feito por <strong>Prof. Max Muller - MMVonnSeek</strong> para a comunidade de segurança </sub>
 
   
