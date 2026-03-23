@@ -82,10 +82,8 @@ Compatível com:
 
 ### 5. Wordlists Modulares
 
-- default.txt → rápida
-- ultimate_50k.txt → intermediária
-- ultra_500k.txt → profunda
-- generate_mega_wordlist.py → +5 milhões de entradas
+default.txt → rápida
+generate_mega_wordlist.py → gera mega_wordlist.txt (milhões de entradas)
 
 ---
 
@@ -106,9 +104,12 @@ cd SubEnum
 ```
 
 ---
-**3. Instalar dependências**
+**3. Criar ambiente virtual e instalar dependências**
 
 ```
+python3 -m venv venv
+source venv/bin/activate
+
 pip install -r requirements.txt
 ```
 
@@ -129,21 +130,27 @@ python -m subenum.cli --domain exemplo.com --wordlist wordlists/default.txt
 ```
 
 ---
-**2. Enumeração híbrida avançada**
+**2. Modo Profundo (Mega Wordlist)**
+Gerar a wordlist massiva:
+```
+python wordlists/generate_mega_wordlist.py
+```
 
+Executar enumeração profunda:
+```
 python -m subenum.cli \
   --domain target.com \
-  --wordlist wordlists/ultimate_50k.txt \
-  --passive all \
-  --doh \
-  --async \
-  --threads 200 \
-  --dashboard dashboard.html \
-  --log logs/output.log
+  --wordlist wordlists/mega_wordlist.txt \
+  --dashboard dashboard.html
+```
 
 ---
-**3. Modo Passivo**
+**3. Execução com Dashboard (scan padrão)**
+```
+python -m subenum.cli --domain target.com --wordlist wordlists/default.txt --dashboard dashboard.html
+```
 
+**4. Modo Passivo**
 **crt.sh**
 
 python -m subenum.cli --domain target.com --passive crtsh
