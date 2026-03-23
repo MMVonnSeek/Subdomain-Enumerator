@@ -234,7 +234,7 @@ Se você gostou do projeto, não esqueça de:
 
 ----------
 
-## ## Licença
+## Licença
 
 Este projeto é distribuído sob a Licença MIT, permitindo uso, modificação e distribuição livre, inclusive para fins comerciais, desde que os devidos créditos sejam mantidos.
 
