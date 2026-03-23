@@ -151,24 +151,25 @@ python -m subenum.cli --domain target.com --wordlist wordlists/default.txt --das
 ```
 
 **4. Modo Passivo**
+
 **crt.sh**
-
+```
 python -m subenum.cli --domain target.com --passive crtsh
-
+```
 ---
 **SecurityTrails**
-
+```
 export SECURITYTRAILS_KEY="SUA_API_KEY"
 
 python -m subenum.cli --domain target.com --passive securitytrails
-
+```
 ---
 **Shodan**
-
+```
 export SHODAN_KEY="SUA_API_KEY"
 
 python -m subenum.cli --domain target.com --passive shodan
-
+```
  ---
  
 ### Detecção de Wildcard DNS
@@ -181,9 +182,9 @@ Resultado marcado:
 ---
 
 ### Testes Automatizados
-
+```
 pytest -v
-
+```
 ---
 
 #### Benchmark
