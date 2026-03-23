@@ -100,7 +100,7 @@ Antes de tudo, crie sua própria cópia deste projeto:
 **2. Clone o Seu Repositório Forkado:**
 
 ```
-git clone https://github.com/SEU-USUSARIO/Subdomain-Enumerator.git
+git clone https://github.com/MMVonnSeek/Subdomain-Enumerator.git
 
 cd SubEnum
 ```
