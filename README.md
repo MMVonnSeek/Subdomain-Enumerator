@@ -2,8 +2,10 @@
 ### *Advanced Reconnaissance Engine for Offensive Security & Cyber Threat Analysis*
 
 ---
+<img src="https://img.shields.io/badge/Autor-Max Muller-darkblue?style=for-the-badge&logo=" alt="MMVonnSeek">
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
-![Security Research](https://img.shields.io/badge/Security%20Research-Max%20Müller-darkred?style=for-the-badge&logo=target)
+![Security Research](https://img.shields.io/badge/Security%20Research-Ready-darkred?style=for-the-badge&logo=target)
 ![Offensive Security](https://img.shields.io/badge/Offensive%20Security-Ready-black?style=for-the-badge&logo=skynet)
 ![AsyncIO](https://img.shields.io/badge/AsyncIO-High%20Performance-green?style=for-the-badge&logo=fastapi)
 
@@ -29,6 +31,8 @@ SubEnum é uma ferramenta híbrida de enumeração de subdomínios desenvolvida 
 
 Com arquitetura limpa, modular e preparada para pipelines profissionais.
 
+ <img src="/docs/imagens/dashboard.png" alt="Dashboard" width="800"/>
+ 
 ---
 
 ## Principais Recursos
@@ -171,6 +175,9 @@ export SHODAN_KEY="SUA_API_KEY"
 
 python -m subenum.cli --domain target.com --passive shodan
 ```
+
+<img src="/docs/imagens/cli_scan.png" alt="cliscan" width="800"/>
+
  ---
  
 ### Detecção de Wildcard DNS
@@ -179,6 +186,8 @@ python -m subenum.cli --domain target.com --passive shodan
 Wildcard DNS detected; results will be marked but still returned.
 Resultado marcado:
 {"subdomain": "test.example.com", "wildcard": true}
+
+<img src="/docs/imagens/wildcard_detection.png" alt="Wildcard" width="800"/>
 
 ---
 
@@ -199,6 +208,14 @@ python -m subenum.cli \
 **Saída típica:**
 
 [Benchmark] 50.000 resoluções em 8.2s (6.097 qps)
+
+---
+
+## Exemplo de Resultados
+
+Após a enumeração de um domínio, o SubEnum produz um arquivo JSON estruturado com os subdomínios identificados, endereços IP associados, fontes de descoberta e outras informações relevantes:
+
+<img src="/docs/imagens/results_json.png" alt="json" width="800"/>
 
 ----------
 
