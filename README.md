@@ -217,7 +217,19 @@ Após a enumeração de um domínio, o SubEnum produz um arquivo JSON estruturad
 
 <img src="/docs/imagens/results_json.png" alt="json" width="800"/>
 
-----------
+---
+
+## 💖 Apoie este projeto
+
+Se este projeto te ajudou, considere apoiar ❤️
+
+Você pode contribuir com um apoio único ou mensal e ajudar a manter este projeto ativo.
+
+👉 https://github.com/sponsors/MMVonnSeek
+
+Seu apoio ajuda diretamente no desenvolvimento de novas ferramentas e conteúdos 🙌
+
+---
 
 ## Contribuição
 
