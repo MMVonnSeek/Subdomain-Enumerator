@@ -2,12 +2,13 @@
 ### *Advanced Reconnaissance Engine for Offensive Security & Cyber Threat Analysis*
 
 ---
-<img src="https://img.shields.io/badge/Autor-Max Muller-darkblue?style=for-the-badge&logo=" alt="MMVonnSeek">
+<img src="https://img.shields.io/badge/Autor-Max Muller-darkred?style=for-the-badge&logo=" alt="MMVonnSeek">
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.10%2B-black?style=for-the-badge&logo=python)
 ![Security Research](https://img.shields.io/badge/Security%20Research-Ready-darkred?style=for-the-badge&logo=target)
 ![Offensive Security](https://img.shields.io/badge/Offensive%20Security-Ready-black?style=for-the-badge&logo=skynet)
-![AsyncIO](https://img.shields.io/badge/AsyncIO-High%20Performance-green?style=for-the-badge&logo=fastapi)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-High%20Performance-darkred?style=for-the-badge&logo=fastapi)
+[![Sponsor](https://img.shields.io/badge/Apoie_este_projeto-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MMVonnSeek)
 
 ---
 
@@ -219,18 +220,6 @@ Após a enumeração de um domínio, o SubEnum produz um arquivo JSON estruturad
 
 ---
 
-## 💖 Apoie este projeto
-
-Se este projeto te ajudou, considere apoiar ❤️
-
-Você pode contribuir com um apoio único ou mensal e ajudar a manter este projeto ativo.
-
-👉 https://github.com/sponsors/MMVonnSeek
-
-Seu apoio ajuda diretamente no desenvolvimento de novas ferramentas e conteúdos 🙌
-
----
-
 ## Contribuição
 
 Se você gostou do projeto, não esqueça de:
@@ -264,9 +253,8 @@ Consulte o arquivo LICENSE para mais informações.
 [![Forks](https://img.shields.io/github/forks/MMVonnSeek/Subdomain-Enumerator?style=social)](https://github.com/MMVonnSeek/Subdomain-Enumerator/network/members)
 [![Follow](https://img.shields.io/github/followers/MMVonnSeek?style=social)](https://github.com/MMVonnSeek)
 
-<a href="https://wa.me/5561986194426?text=Olá%20tudo%20bem%20Max%3F%20Eu%20vim%20pelo%20seu%20repositorio%20do%20github.%20Podemos%20conversar%20sobre%3F" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Fale%20Comigo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+[![Sponsor](https://img.shields.io/badge/Apoie_este_projeto-Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/MMVonnSeek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Max_Muller-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-muller-685705248/)
 
 <br>
 
